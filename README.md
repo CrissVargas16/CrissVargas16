@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! Soy Cristian 👋 </h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h1>¡Hola! Soy Cristian 👋 </h1>
 <!-- ## 👋 &nbsp;Hey there! I'm Cristian -->
 ### 💻&nbsp;Sobre mí
 ¡Buenas Bienvenido! Soy un estudiante actualmente para futuro ingeniero de sistemas, me encanta la programacion (Python y JS especialmente), el diseño, el analisis de datos y sistemas operativos para creacion de redes. Me desemvuelvo en el lado del back-end pero tambien me gusta la idea del front-end para llegar a ser desarrollador full-stack. Actualmente desarrollando proyectos para el parendizaje propio y que puedes ser escalados a modo profesional.
